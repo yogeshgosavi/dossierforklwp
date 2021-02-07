@@ -43,6 +43,19 @@
     "downloadable": true,
     "copyright": "CreativeCommons Attribution-ShareALike"
   }, 
+  { "name": "Wave gradient 1",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/dossierforklwp/main/wallpaper/wall12.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,gradient"}
+,{
+		"name": "Wave gradient 2",
+		"author": "YoG",
+		"url": "https://raw.githubusercontent.com/yogeshgosavi/dossierforklwp/main/wallpaper/wall13.png",
+		"downloadable": true,
+		"copyright": "Personal Use",
+		"collections":"illustration,gradient"},
 {
     "name": "Mountain Astronomy",
     "author": "UNKNOWN",
